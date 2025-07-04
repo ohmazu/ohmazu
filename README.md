@@ -1,33 +1,47 @@
 # 👋 Hi, I'm Ju Yeong
 
 
-🎓 Undergraduate student majoring in **Applied Statistics**  
-🏫 Studying at **Chung-Ang University**, South Korea  
-📊 Aspiring **Data Analyst** with a strong interest in:
-- Data exploration & visualization  
-- Statistical modeling  
-- Machine learning fundamentals
+## 📌 About Me
 
-💡 I enjoy solving real-world problems using data and building meaningful insights through analytics.
+- 🎓 **Applied Statistics** major at **Chung-Ang University**, South Korea  
+- 🎯 Aspiring **Data Analyst** with a focus on:
+  - Data exploration & visualization  
+  - Statistical modeling  
+  - Machine learning fundamentals
+- 💡 I enjoy solving real-world problems using data and turning them into insights.
+
 
 
 ---
 
 ## 🎯 Interests
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Visualization
-- Statistical Modeling
-- Entry-level Machine Learning
-- Real-world problem solving using statistics
+
+- 📊 **Data Exploration & Visualization**  
+  Discovering patterns and trends using tools like Pandas, Seaborn, and Matplotlib  
+
+- 🧹 **Data Cleaning & Wrangling**  
+  Preparing real-world datasets for analysis through preprocessing and transformation
+
+- 📈 **Statistical Modeling**  
+  Applying regression, classification, and hypothesis testing to real-world problems
+
+- 🤖 **Introductory Machine Learning**  
+  Building simple models using Scikit-learn to solve classification or prediction tasks
+
+- 🧠 **Turning Data into Insights**  
+  Using statistical thinking to solve business or societal problems with data
+
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages**: Python, R, SQL
-- **Statistical Software**: SPSS, SAS
-- **Libraries/Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Development Environments**: VS Code, PyCharm, Google Colab
-- **Version Control**: Git & GitHub
+## 🧰 Tech Stack
+
+- 💻 **Languages**: Python, R, SQL  
+- 📊 **Statistical Tools**: SPSS, SAS  
+- 📚 **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- 🛠 **Environments**: VS Code, PyCharm, Google Colab  
+- 🔧 **Version Control**: Git & GitHub
+
 
 ---
 
@@ -39,8 +53,13 @@
 
 ---
 
-## 📈 GitHub Stats
-![ohmazu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohmazu&show_icons=true&theme=default)
+## 📊 GitHub Stats
+
+![ohmazu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohmazu&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ohmazu&theme=default)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ohmazu&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
