@@ -1,76 +1,80 @@
 # 👋 Hi, I'm Ju Yeong
 
-
 ## 📌 About Me
-
 - 🎓 **Applied Statistics** major at **Chung-Ang University**, South Korea  
-- 🎯 Aspiring **Data Analyst** with a focus on:
-  - Data exploration & visualization  
-  - Statistical modeling  
-  - Machine learning fundamentals
-- 💡 I enjoy solving real-world problems using data and turning them into insights.
-
-
+- 💡 Member of **DArt-B** (Data Analysis Academic Society)  
+- 💡 Participated in **BDA** (Data Analysis Academic Society)
+- 💡 Participated in **WE-IT** (Data Analysis Academic Society) 
+- 🎯 Aspiring **Marketing/CRM Data Analyst** with hands-on experience in:
+  - Customer behavior analysis
+  - Retention & churn prediction
+  - Campaign performance evaluation
 
 ---
 
 ## 🎯 Interests
+- 📊 **Marketing & CRM Data Analysis**  
+  Measuring campaign effectiveness, churn prediction, and customer segmentation  
 
-- 📊 **Data Exploration & Visualization**  
-  Discovering patterns and trends using tools like Pandas, Seaborn, and Matplotlib  
+- 📈 **Data-Driven Decision Making**  
+  Supporting business & marketing strategies with data insights  
 
-- 🧹 **Data Cleaning & Wrangling**  
-  Preparing real-world datasets for analysis through preprocessing and transformation
+- 🤖 **Applied Machine Learning**  
+  Building predictive models for churn, conversion, and retention  
 
-- 📈 **Statistical Modeling**  
-  Applying regression, classification, and hypothesis testing to real-world problems
-
-- 🤖 **Introductory Machine Learning**  
-  Building simple models using Scikit-learn to solve classification or prediction tasks
-
-- 🧠 **Turning Data into Insights**  
-  Using statistical thinking to solve business or societal problems with data
-
+- 🧠 **Turning Data into Business Insights**  
+  Translating data into actionable strategies for growth  
 
 ---
 
 ## 🧰 Tech Stack
-
 - 💻 **Languages**: Python, R, SQL  
 - 📊 **Statistical Tools**: SPSS, SAS  
 - 📚 **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- 📊 **Visualization Tools**: Tableau
 - 🛠 **Environments**: VS Code, PyCharm, Google Colab  
-- 🔧 **Version Control**: Git & GitHub
-
+- 🔧 **Version Control**: Git & GitHub  
 
 ---
 
 ## 📚 Currently Learning
-- Advanced Python for data analysis
-- Statistical machine learning
-- Data visualization tools (Tableau)
-- Real-world projects on Kaggle and public datasets
+- SQL for advanced data querying (customer funnel & cohort analysis)  
+- Tableau for **marketing KPI dashboards**  
+- CRM-focused predictive modeling (RFM, churn, retention)  
+- Real-world projects on Kaggle & public marketing datasets  
+
+---
+
+## 📌 Featured Projects
+- 🧑‍🤝‍🧑 **Seoul Metropolitan Mobility Hackathon**  
+  - Analyzed long-term and short-term trends in **satisfaction survey data**  
+  - Performed **clustering of administrative districts** using mobility flow indicators  
+  - Contributed to deriving data-driven policy suggestions based on cluster characteristics  
+
+- 📈 **Employee Churn Prediction**  
+  - Conducted **EDA on environmental variables**   
+  - Performed **hypothesis testing** to validate customer behavior patterns  
+  - Derived **business insights** on key drivers of churn and retention strategies  
+
+- 🏨 **Hotel Booking Cancellation Analysis**  
+  Explored booking patterns, built cancellation prediction model  
+
+- 🎓 **Job Concerns Analysis for Chung-Ang University Students**  
+  - Crawled and preprocessed text data from **student job concerns forum**  
+  - Performed **sentiment analysis** (positive/negative/neutral) to identify emotional trends  
+  - Applied **topic modeling (LDA)** to extract key themes of job-seeking concerns  
+  - Conducted **clustering** to segment students into groups with similar concerns  
+  - Proposed **customized employment support programs** tailored to each cluster’s needs  
 
 ---
 
 ## 📊 GitHub Stats
-
 ![ohmazu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohmazu&show_icons=true&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ohmazu&theme=default)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ohmazu&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-
----
-
-## 📌 Featured Projects
-
-- 📉 **Customer Churn Prediction**  
-  
-
 ---
 
 ## 📫 Contact Me
-- 📧 Email: juyeong9361@gmail.com
-
-
+- 📧 Email: juyeong9361@gmail.com  
