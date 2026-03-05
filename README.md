@@ -34,6 +34,16 @@
 **Visualization**: Tableau · Matplotlib · Seaborn  
 **Tools**: Git · VS Code · Colab
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,sqlite,sklearn,git,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Python-blue?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRM-Analytics-2ea44f?style=flat" />
+  <img src="https://img.shields.io/badge/Performance-Marketing-orange?style=flat" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -41,15 +51,6 @@
 ### 🛍 Musinsa Review NLP (Quality Risk & Priority Model)
 - Goal: Extract category-specific complaint types from reviews → quantify their impact on rating decline → build a quality risk scoring model and dashboard
 - Highlights: topic/keyword extraction · modeling · prioritization
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ohmazu&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmazu&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
