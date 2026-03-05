@@ -1,86 +1,61 @@
-# Hi, I'm Ju Yeong 👋
+<h1 align="center">Hi, I'm Ju Yeong 👋</h1>
 
-## 📌 About Me
-Aspiring Data Analyst at Chung-Ang University (Applied Statistics), interested in CRM analytics and performance marketing.
+<p align="center">
+  <b>Aspiring Data Analyst</b> · CRM Analytics · Performance Marketing
+</p>
 
-Member of **DArt-B, WE-IT, and BDA** Data Analysis Communities.
+<p align="center">
+  🎓 Chung-Ang University · Applied Statistics
+  <br/>
+  🧩 DArt-B · WE-IT · BDA (Data Analysis Communities)
+</p>
 
-I analyze data to generate insights for business and marketing decisions.
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=notion&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🎯 Interests
-- 📊 **Marketing & CRM Data Analysis**  
-  Measuring campaign effectiveness, churn prediction, and customer segmentation  
-
-- 📈 **Data-Driven Decision Making**  
-  Supporting business & marketing strategies with data insights  
-
-- 🤖 **Applied Machine Learning**  
-  Building predictive models for churn, conversion, and retention  
-
-- 🧠 **Turning Data into Business Insights**  
-  Translating data into actionable strategies for growth  
+## ✨ What I do
+- **Data Analysis**: structure messy data → build insights → propose decisions
+- **CRM**: segmentation, churn/retention, customer behavior analysis
+- **Performance Marketing**: campaign measurement, funnel, KPI-driven optimization
 
 ---
 
 ## 🧰 Tech Stack
-- 💻 **Languages**: Python, R, SQL  
-- 📊 **Statistical Tools**: SPSS, SAS  
-- 📚 **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- 📊 **Visualization Tools**: Tableau
-- 🛠 **Environments**: VS Code, PyCharm, Google Colab  
-- 🔧 **Version Control**: Git & GitHub  
+**Languages**: Python · R · SQL  
+**Analysis/ML**: pandas · NumPy · scikit-learn · statsmodels  
+**Visualization**: Tableau · Matplotlib · Seaborn  
+**Tools**: Git · VS Code · Colab
 
 ---
 
-## 📚 Currently Learning
-- SQL for advanced data querying (customer funnel & cohort analysis)  
-- Tableau for **marketing KPI dashboards**  
-- CRM-focused predictive modeling (RFM, churn, retention)  
-- Real-world projects on Kaggle & public marketing datasets  
+## 🚀 Featured Projects
 
----
-
-## 📌 Featured Projects
-- 🧑‍🤝‍🧑 **Seoul Metropolitan Mobility Hackathon**  
-  - Analyzed long-term and short-term trends in **satisfaction survey data**  
-  - Performed **clustering of administrative districts** using mobility flow indicators  
-  - Contributed to deriving data-driven policy suggestions based on cluster characteristics  
-
-- 📈 **Employee Churn Prediction**  
-  - Conducted **EDA on environmental variables**   
-  - Performed **hypothesis testing** to validate customer behavior patterns  
-  - Derived **business insights** on key drivers of churn and retention strategies  
-
-- 🏨 **Hotel Booking Cancellation Analysis**  
-  Explored booking patterns, built cancellation prediction model  
-
-- 🎓 **Job Concerns Analysis for Chung-Ang University Students**  
-  - Crawled and preprocessed text data from **student job concerns forum**  
-  - Performed **sentiment analysis** (positive/negative/neutral) to identify emotional trends  
-  - Applied **topic modeling (LDA)** to extract key themes of job-seeking concerns  
-  - Conducted **clustering** to segment students into groups with similar concerns  
-  - Proposed **customized employment support programs** tailored to each cluster’s needs  
+### 🛍 Musinsa Review NLP (Quality Risk & Priority Model)
+- Goal: Extract category-specific complaint types from reviews → quantify their impact on rating decline → build a quality risk scoring model and dashboard
+- Highlights: topic/keyword extraction · modeling · prioritization
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohmazu&show_icons=true&theme=default" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=ohmazu&theme=default" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmazu&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ohmazu&theme=gruvbox&margin-w=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ohmazu&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmazu&layout=compact&langs_count=8&hide_title=true" height="170"/>
 </p>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: juyeong9361@gmail.com  
+## 📫 Contact
+
+📧 Email: your_email@gmail.com
+
