@@ -11,13 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:juyeong9361@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://www.notion.so/Kwak-Ju-Yeong-30354822649d81548254e589b17b0888?source=copy_link">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=notion&logoColor=white" />
   </a>
 </p>
@@ -48,9 +45,10 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohmazu&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmazu&layout=compact&langs_count=8&hide_title=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ohmazu&show_icons=true&count_private=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmazu&layout=compact&cache_seconds=1800" height="170"/>
 </p>
 
 ---
