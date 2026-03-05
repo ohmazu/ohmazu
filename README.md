@@ -1,14 +1,11 @@
-# 👋 Hi, I'm Ju Yeong
+# Hi, I'm Ju Yeong 👋
 
 ## 📌 About Me
-- 🎓 **Applied Statistics** major at **Chung-Ang University**, South Korea  
-- 💡 Member of **DArt-B** (Data Analysis Academic Society)  
-- 💡 Participated in **BDA** (Data Analysis Academic Society)
-- 💡 Participated in **WE-IT** (Data Analysis Academic Society) 
-- 🎯 Aspiring **Marketing/CRM Data Analyst** with hands-on experience in:
-  - Customer behavior analysis
-  - Retention & churn prediction
-  - Campaign performance evaluation
+Aspiring Data Analyst at Chung-Ang University (Applied Statistics), interested in CRM analytics and performance marketing.
+
+Member of **DArt-B, WE-IT, and BDA** Data Analysis Communities.
+
+I analyze data to generate insights for business and marketing decisions.
 
 ---
 
@@ -69,10 +66,19 @@
 ---
 
 ## 📊 GitHub Stats
-![ohmazu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohmazu&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ohmazu&theme=default)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ohmazu&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ohmazu&show_icons=true&theme=default" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ohmazu&theme=default" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmazu&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ohmazu&theme=gruvbox&margin-w=10"/>
+</p>
 
 ---
 
