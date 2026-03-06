@@ -56,5 +56,5 @@
 
 ## 📫 Contact
 
-📧 Email: your_email@gmail.com
+📧 Email: juyeong9361@gmail.com
 
